@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 /**
- * main - print the alphabet in lowercase and in uppercase.
+ * main - print the alphabet in lowercase and then in uppercase.
  *
  * Return: Always 0.
  */
@@ -23,5 +23,4 @@ int main(void)
     printchar("\n");
 
     return (0);
-
 }	

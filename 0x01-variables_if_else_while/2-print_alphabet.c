@@ -13,8 +13,11 @@ int main(void)
         char letter;
 	 
      for(letter = 'a', letter <= 'z', letter++)
-        putchar("letter\n");
+        putchar("letter");
 
-     return (0);		
+     printchar("\n");
+
+
+     return (0);
 
 }	

@@ -1,11 +1,12 @@
-#include "hoberton.h"
-#include <stdio.h>
+#include "holberton.h"
+#include <unistd.h>
 
 /**
- * _putchar - printwrites the character c to stdout
- * @c: The character to print.
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
  *
- * Return: Always 0
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
 int _putchar(char c)
 {

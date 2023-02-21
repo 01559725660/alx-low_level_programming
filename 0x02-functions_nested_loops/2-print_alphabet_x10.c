@@ -1,31 +1,12 @@
-/*
- * File: 2-print_alphabet_x10.c
- * Author: Batool Khaled
- *
- */
-
-
-#include "holberton.h"
+#include "main.h"
 
 /**
- * print_alphabet_x10 - Make alphabet x10 times
+ * main - check the code for Holberton School students.
  *
- * Return: void
+ * Return: Always 0.
  */
-void print_alphabet_x10(void)
+int main(void)
 {
-	char c;
-	int i = 0;
-
-	while (i <= 9)
-	{
-		for (c = 'a'; c <= 'z'; c++)
-		{
-			_putchar(c);
-		}
-
-		_putchar('\n');
-
-		i++;
-	}
+	print_alphabet_x10();
+	return (0);
 }

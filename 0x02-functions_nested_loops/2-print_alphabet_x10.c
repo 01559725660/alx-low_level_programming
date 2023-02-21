@@ -1,3 +1,10 @@
+/*
+ * File: 2-print_alphabet_x10.c
+ * Author: Batool Khaled
+ *
+ */
+
+
 #include "holberton.h"
 
 /**

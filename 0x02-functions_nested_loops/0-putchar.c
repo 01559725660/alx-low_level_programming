@@ -16,7 +16,7 @@ int main(void)
 	_putchar('t');
 	_putchar('o');
 	_putchar('n');
-	_putchar('stderr);
+	_putchar('h');
 	_putchar('\n');
 
 	return (0);

@@ -1,5 +1,4 @@
-#include "main.h"
-#include <stdio.h>
+ #include "holberton.h"
 
 /**
  * puts2 - Write a function that prints every other character of a string, 
@@ -9,6 +8,7 @@
  *
  *
  */
+
 void puts2(char *s)
 {
 	int a;

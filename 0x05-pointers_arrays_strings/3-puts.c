@@ -1,5 +1,4 @@
-#include "main.c"
-#include <stdio.h>
+#include "holberton.h"
 
 /**
  * _puts - Write a function that prints a string, followed by a new line, to
@@ -18,4 +17,4 @@ void _puts(char *str)
 		_putchar(str[index]);
 	}
 	_putchar('\n');
-}	
+}

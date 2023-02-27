@@ -4,6 +4,8 @@
  * rev_string - This fuction print a string reverser
  *
  *@s: this is the pointer that point to a string
+ *
+ * return: success
  */
 
 void rev_string(char *s)
